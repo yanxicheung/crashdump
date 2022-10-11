@@ -4,4 +4,4 @@
 
 # 参考文献
 
-1. [ELF_Brief.md](./ELF_Brief.md)
+1. [ELF_Brief.md](./doc/ELF_Brief.md)
