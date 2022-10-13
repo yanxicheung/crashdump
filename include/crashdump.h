@@ -5,7 +5,7 @@
 extern "C"{
 #endif
 
-void crashdump_init();
+int crashdump_init();
 
 #ifdef __cplusplus
 }
